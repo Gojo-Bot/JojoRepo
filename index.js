@@ -101,7 +101,7 @@ namabot = "-";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
 grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
-owner = "6281319944917";
+owner = "6288804947282";
 nama_owner = "Arasyaaa";
 instagram = "sofunsyabi.id";
 yt = "https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA";
